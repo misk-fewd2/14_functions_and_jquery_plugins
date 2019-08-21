@@ -1,6 +1,6 @@
 # Lesson 14 - jQuery Plugins
 
-In Lesson 12, I'm responding to what you asked for - help with portfolio sites. We're deviating a bit from the normal lesson plan to really focus on how you actually use JS in a production setting. I'll show you my favorite plugins to make an interactive webpage really work well for end users.
+In Lesson 14, I'm responding to what you asked for - help with portfolio sites. We're deviating a bit from the normal lesson plan to really focus on how you actually use JS in a production setting. I'll show you my favorite plugins to make an interactive webpage really work well for end users.
 
 ## Agenda - First Half of the Class
 
